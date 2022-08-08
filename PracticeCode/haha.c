@@ -3,5 +3,6 @@
 int main()
 {
 	printf("ÄãºÃ");
+	pr();
 	return 0;
 }

@@ -2,7 +2,8 @@
 
 int main()
 {
-	printf("ÄãºÃ");
+	printf("Ã„Ã£ÂºÃƒ");
 	pr();
+	getcher();
 	return 0;
 }

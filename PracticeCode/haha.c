@@ -2,6 +2,6 @@
 
 int main()
 {
-	
+	pr();
 	return 0;
 }
